@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:24
+msgid "Add popup content"
+msgstr ""
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:19
+msgid "Add popup title"
+msgstr ""
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:28
+msgid "Attached images in the popup"
+msgstr ""
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:29
+msgid "Attached images link address"
+msgstr ""
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:50
+msgid "Background popup"
+msgstr ""
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:54
+msgid "Border color popup"
+msgstr ""
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:45
+msgid "Check if you want to enable color customization for the popup"
+msgstr ""
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:13
+msgid "Check if you want to enable popup notifications for the website."
+msgstr ""
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:49
+msgid "Choose a color for each part of the popup"
+msgstr ""
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:35
+msgid "Color popup"
+msgstr ""
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:15
+msgid "Enable"
+msgstr ""
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:10
+msgid "Fill in the boxes below"
+msgstr ""
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:31
+msgid "Links go when clicking on attached images"
+msgstr ""
+
+#. Text in function
+#: popup-tb/inc/popuptb-admin.php:7
+msgid "POPUP TB SETTINGS"
+msgstr ""
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:23
+msgid "Popup content"
+msgstr ""
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:18
+msgid "Popup title"
+msgstr ""
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:57
+msgid "Save settings"
+msgstr ""
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:52
+msgid "Text color popup"
+msgstr ""
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:59
+msgid "Thank you for using our plugin"
+msgstr ""
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:12
+msgid "Turn Popup on and off"
+msgstr ""
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:44
+#: popup-tb/inc/popuptb-admin.php:47
+msgid "Turn on color customization"
+msgstr ""

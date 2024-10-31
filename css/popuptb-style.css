@@ -1,0 +1,56 @@
+/* Thong bao Popup tren mn hinh */
+.tbpopup .tboverlay {
+  position:fixed;
+  top:0px;
+  left:0px;
+  width:100vw;
+  height:100vh;
+  background:rgba(0,0,0,0.8);
+  z-index:1;
+  display:none;
+  z-index:999999;
+}
+
+.tbcontent {
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%) scale(0);
+  max-width:600px;
+  z-index:9999999;
+  text-align:center;
+  padding:20px;
+  box-sizing:border-box;
+  font-family:"Open Sans",sans-serif;
+  border-radius:30px;
+  display: block;
+  position: fixed;
+  box-shadow:0px 0px 10px #111;
+  line-height:1.3;
+  font-size:16px;
+}
+.tbcontent:hover{opacity:0.9}
+/* mau sac tuy chinh */
+.tbcontent.White{background:#fff;color:#222}
+.tbcontent.Dark{background:#333;color:#fff}
+.tbcontent.Purple{background:#68626f;color:#fff}
+.tbcontent.Pro{background:#222635;color:#fff;border:2px solid #576a7b}
+@media (max-width: 700px) {
+.tbcontent {width:90%;}
+}
+
+.tbclose-btn {
+  margin-top:-40px;
+}
+button#buttomcl{width:40px !important;height:40px !important;cursor:pointer !important;font-size:30px !important;border-radius:100% !important;outline: none !important;border:none !important;margin:0px !important;padding:0px !important;box-shadow:0px 0px 0px !important;background:#fff !important;color:#000 !important;line-height:0 !important}
+button.buttomclWhite{box-shadow:0px 0px 4px #222 !important}
+.tbimg{margin-top:13px;margin-bottom:-2px;} .tbimg img{border-radius: 0px 0px 20px 20px;width:100%;border:none;box-shadow:0px 0px 0px;padding:0px;margin:0px}
+.tbpopup.active .tboverlay {
+  display:block;
+}
+
+.tbpopup.active .tbcontent {
+  transition:all 300ms ease-in-out;
+  transform:translate(-50%,-50%) scale(1);
+}
+.tbbuttom{background:#00cc00;color:#fff}

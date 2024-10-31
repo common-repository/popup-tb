@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Popup TB\n"
+"POT-Creation-Date: 2024-02-24 13:32+0700\n"
+"PO-Revision-Date: 2024-02-24 13:33+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/popuptb-admin.php:15
+msgid "Settings saved"
+msgstr "Đã lưu cài đặt"
+
+#: inc/popuptb-admin.php:20
+msgid "Optimate search realtime"
+msgstr "Tìm kiếm tối ưu"
+
+#: inc/popuptb-admin.php:25
+msgid "Turn on speed search"
+msgstr "Bật tìm kiếm nhanh"
+
+#: inc/popuptb-admin.php:27
+msgid ""
+"Initialize automatically later <span id=\"sogiay\" style=\"padding: 5px;"
+"\">3</span>s"
+msgstr ""
+"Tự động khởi tạo sau <span id=\"sogiay\" style=\"padding: 5px;\">3</span>s"
+
+#: inc/popuptb-admin.php:30
+msgid "Show quantity"
+msgstr "Số lượng hiển thị"
+
+#: inc/popuptb-admin.php:33
+msgid "Enter the number of articles and products displayed when you search"
+msgstr "Nhập số lượng bài viết, sản phẩm hiển thị khi tìm kiếm"
+
+#: inc/popuptb-admin.php:55
+msgid "Create data"
+msgstr "Tạo dữ liệu"
+
+#: inc/popuptb-admin.php:56
+msgid "Delete data"
+msgstr "Xóa dữ liệu"
+
+#: inc/popuptb-admin.php:105
+msgid "Completed data count: '+sopost+'"
+msgstr "Số dữ liệu đã hoàn thành: '+sopost+'"
+
+#: inc/popuptb-admin.php:109
+msgid "Please wait: '+sopost+'"
+msgstr "Vui lòng đợi: '+sopost+'"
+
+#: inc/popuptb-admin.php:130
+msgid "Deleted successfully"
+msgstr "Đã xoá thành công"
+
+#: inc/popuptb-admin.php:142
+msgid ""
+"Configure options and generate search data. If you want to refresh, you can "
+"delete your search data and create it again"
+msgstr ""
+"Cấu hình các tùy chọn và tạo dữ liệu tìm kiếm. Nếu muốn làm mới, bạn có thể "
+"xóa dữ liệu tìm kiếm và tạo lại"
+
+#: inc/popuptb-admin.php:144
+msgid "SAVE CONTENT"
+msgstr "LƯU NỘI DUNG"
+
+#: inc/popuptb-content.php:240
+msgid "Not enough permissions"
+msgstr "Không đủ quyền"
+
+#: inc/popuptb-content.php:294
+msgid "Enter keywords to search"
+msgstr "Nhập từ khóa để tìm kiếm"
+
+#: inc/popuptb-content.php:295
+msgid "SEARCH"
+msgstr "TÌM"
+
+#: inc/popuptb-content.php:416
+msgid "No results were found"
+msgstr "Không thấy kết quả"
+
+#: popup-tb.php:48
+msgid "Setting"
+msgstr "Cài đặt"
+
+#: popup-tb.php:50
+msgid "Home"
+msgstr "Trang chủ"

@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: vi_VN\n"
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:24
+msgid "Add popup content"
+msgstr "Thêm nội dung cho Popup"
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:19
+msgid "Add popup title"
+msgstr "Thêm tiêu đề cho Popup"
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:28
+msgid "Attached images in the popup"
+msgstr "Hình ảnh đính kèm trong Popup"
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:29
+msgid "Attached images link address"
+msgstr "Địa chỉ link của hình ảnh đính kèm"
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:50
+msgid "Background popup"
+msgstr "Màu nền Popup"
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:54
+msgid "Border color popup"
+msgstr "Màu viền Popup"
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:45
+msgid "Check if you want to enable color customization for the popup"
+msgstr "Tích chọn nếu bạn muốn thay đổi màu sắc tùy chỉnh"
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:13
+msgid "Check if you want to enable popup notifications for the website."
+msgstr "Tích chọn nếu bạn muốn bật Popup lên"
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:49
+msgid "Choose a color for each part of the popup"
+msgstr "Chọn màu sắc cho từng phần của Popup"
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:35
+msgid "Color popup"
+msgstr "Màu Popup"
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:15
+msgid "Enable"
+msgstr "Bật"
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:10
+msgid "Fill in the boxes below"
+msgstr "Điền vào các ô thông tin bên dưới"
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:31
+msgid "Links go when clicking on attached images"
+msgstr "Link chuyển đi sau khi click chuột vào hình ảnh"
+
+#. Text in function
+#: popup-tb/inc/popuptb-admin.php:7
+msgid "POPUP TB SETTINGS"
+msgstr " CÀI ĐẶT POPUP"
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:23
+msgid "Popup content"
+msgstr "Nội dung Popup"
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:18
+msgid "Popup title"
+msgstr "Tiêu đề Popup"
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:57
+msgid "Save settings"
+msgstr "Lưu cài đặt"
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:52
+msgid "Text color popup"
+msgstr "Màu chữ Popup"
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:59
+msgid "Thank you for using our plugin"
+msgstr "Cảm ơn bạn đã sử dụng plugin của chúng tôi"
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:12
+msgid "Turn Popup on and off"
+msgstr "Bật hoặc tắt Popup"
+
+#. Text in echo
+#: popup-tb/inc/popuptb-admin.php:44 popup-tb/inc/popuptb-admin.php:47
+msgid "Turn on color customization"
+msgstr "Bật tùy chọn chỉnh sửa màu sắc"
